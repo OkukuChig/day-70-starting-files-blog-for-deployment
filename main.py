@@ -12,7 +12,7 @@ from forms import CreatePostForm, RegisterForm, LoginForm, CommentForm
 # Optional: add contact me email functionality (Day 60)
 # import smtplib
 import os
-
+# Nothings change
 
 '''
 Make sure the required packages are installed: 
